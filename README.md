@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on golang offsec 
-- 🌱 I’m currently learning nim
-- 👯 I’m looking to collaborate on any project offsec related
-- 🤔 I’m looking for help with nim
+- 🔭 I’m currently working on all things golang 
+- 🌱 I’m currently learning more go
+- 👯 I’m looking to collaborate on any project
+- 🤔 I’m looking for help with cgo
 - 💬 Ask me about Qubes OS 
 - 📫 How to reach me: @xn0px90
