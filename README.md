@@ -2,6 +2,6 @@
 - 🔭 I’m currently working on all things Xen & Qubes-OS 
 - 🌱 I’m currently learning more go
 - 👯 I’m looking to collaborate on any project
-- 🤔 I’m looking for help with cgo
-- 💬 Ask me about Qubes-OS 
-- 📫 How to reach me: @xn0px90
+- 🤔 I’m looking for help with risc-v, cgo, CISC & RISC
+- 💬 Ask me about Qubes-OS or anything
+- 📫 How to reach me: @xn0px90 on the socials
