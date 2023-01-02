@@ -4,4 +4,4 @@
 - 👯 I’m looking to collaborate on any project
 - 🤔 I’m looking for help with risc-v, cgo, CISC & RISC
 - 💬 Ask me about Qubes-OS or anything
-- 📫 How to reach me: @xn0px90 on the socials
+- 📫 How to reach me: [@xn0px90](https://patreon.com/xn0px90)
