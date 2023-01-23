@@ -1,4 +1,4 @@
-### Hi there 👋
+# ```¯\_(ツ)_/¯``` 👋
 - 🔭 I’m currently working on all things Xen & Qubes OS Training and Exploitation Development.
 - 🌱 I’m currently learning All the things!
 - 👯 I’m looking to collaborate on any project that is not a waste of our time.
