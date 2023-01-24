@@ -6,3 +6,4 @@
 - 💬 Ask me about anything!
 - 📫 How to reach me: [@xn0px90](https://patreon.com/xn0px90)
 # ![](./profile-3d-contrib/profile-night-rainbow.svg)
+# ```¯\_(ツ)_/¯```
