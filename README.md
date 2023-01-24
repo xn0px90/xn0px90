@@ -1,5 +1,5 @@
 # ```¯\_(ツ)_/¯```
-- 🔭 I’m currently working on all things seL4, Xen & Qubes OS Training and Exploitation Development.
+- 🔭 I’m currently working on all things involving Training and Exploitation Development.
 - 🌱 I’m currently learning All the things!
 - 👯 I’m looking to collaborate on any project that is not a waste of our time.
 - 🤔 Let's talk about go, risc-v, s390x, CISC & RISC
