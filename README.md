@@ -5,5 +5,5 @@
 - 🤔 Let's talk about go, risc-v, s390x, CISC & RISC
 - 💬 Ask me about anything!
 - 📫 How to reach me: [@xn0px90](https://patreon.com/xn0px90)
-# ![](https://github.com/xn0px90/xn0px90/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+# ![](./profile-3d-contrib/profile-night-rainbow.svg)
 # ```¯\_(ツ)_/¯```
