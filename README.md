@@ -1,8 +1,8 @@
 # ```¯\_(ツ)_/¯```
-- 🔭 I’m currently working on Futurism, Training and Exploitation Development.
+- 🔭 I’m currently working on Futurism, Training Courses, Custom OS and Exploitation Development.
 - 🌱 I’m currently learning All the things!
 - 👯 I’m looking to collaborate on any project that is not a waste of our time.
-- 🤔 Let's talk about AI, ML, UI/UX, futurism, fuzzing, V, risc-v, s390x, WASM, CISC & RISC
+- 🤔 Let's talk about AI, ML, UI/UX, Futurism, Fuzzing, V, Risc-v, s390x, WASM, CISC & RISC
 - 💬 Ask me about anything!
 - 🌎 How to reach me: [@xn0px90](https://xn0px90.com/)
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
