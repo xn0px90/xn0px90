@@ -12,5 +12,5 @@
 
 # Amazing Sponsors 
 
-<p <img src="https://avatars.githubusercontent.com/u/87086734?s=200&v=4"/>
+![](https://avatars.githubusercontent.com/u/87086734?s=200&v=4)
 # ```¯\_(ツ)_/¯``` 
