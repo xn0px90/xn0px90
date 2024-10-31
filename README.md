@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on any project that is not a waste of our time.
 - 🤔 Let's talk about AI, ML, UI/UX, Futurism, Fuzzing, V, Risc-V, s390x, WASM, CISC & RISC
 - 💬 Ask me about anything!
-- 🌎 How to reach me: [@xn0px90](https://xn0px90.com/)
+- 🌎 How to reach me: [@xn0px90](https://x.com/xn0px90)
 - [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/xn0px90)
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
