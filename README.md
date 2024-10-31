@@ -1,4 +1,4 @@
-# ```¯\_(ツ)_/¯``` ![GitHub Sponsor](https://img.shields.io/github/sponsors/<username>?label=Sponsor&logo=GitHub) 
+# ```¯\_(ツ)_/¯``` ![GitHub Sponsor](https://img.shields.io/github/sponsors/xn0px90?label=Sponsor&logo=GitHub) [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/xn0px90)
 - 🔭 I’m currently working on Futurism, Training Courses, Custom OS and Exploitation Development.
 - 🌱 I’m currently learning All the things!
 - 👯 I’m looking to collaborate on any project that is not a waste of our time.
@@ -12,4 +12,4 @@
 # Amazing Sponsors 
 
 ![](https://avatars.githubusercontent.com/u/87086734?s=200&v=4)
-# ```¯\_(ツ)_/¯``` ![GitHub Sponsor](https://img.shields.io/github/sponsors/<username>?label=Sponsor&logo=GitHub)
+# ```¯\_(ツ)_/¯``` ![GitHub Sponsor](https://img.shields.io/github/sponsors/xn0px90?label=Sponsor&logo=GitHub) [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/xn0p90)
