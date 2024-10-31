@@ -12,5 +12,5 @@
 
 # Amazing Sponsors 
 
-![](https://avatars.githubusercontent.com/u/87086734?s=200&v=4)
+<p <img src="https://avatars.githubusercontent.com/u/87086734?s=200&v=4" alt="https://huly.io" />
 # ```¯\_(ツ)_/¯``` 
