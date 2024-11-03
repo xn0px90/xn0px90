@@ -12,5 +12,5 @@
 
 # Amazing Sponsors 
 
-![](https://avatars.githubusercontent.com/u/87086734?s=200&v=4)
+![](https://avatars.githubusercontent.com/u/87086734?s=200&v=4) <a href="https://app.daily.dev/xn0px90"><img src="https://api.daily.dev/devcards/v2/bNB24wALxVlbsKLhfGp3b.png?type=default&r=1t2" width="356" alt="xn0px90's Dev Card"/></a>
 # ```¯\_(ツ)_/¯``` 
