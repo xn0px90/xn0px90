@@ -8,9 +8,9 @@
 - 🙏 4 your support! [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/xn0px90)
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xn0px90&label=Profile%20views&color=0e75b6&style=flat" alt="xn0px90" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xn0px90&label=Profile%20views&color=0e75b6&style=flat" alt="xn0px90" /> </p> 
 
 # Amazing Sponsors 
 
-![](https://avatars.githubusercontent.com/u/87086734?s=200&v=4) 
+![](https://avatars.githubusercontent.com/u/87086734?s=200&v=4) <p align="left"> <img src = https://avatars.githubusercontent.com/u/44058005?s=200&v=4 /> </p>
 # ```¯\_(ツ)_/¯``` 
