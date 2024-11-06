@@ -12,7 +12,4 @@
 
 # Amazing Sponsors 
 <a target="_blank" href="https://huly.io/"><img style="height:175px; margin-left: 20px;" src="https://avatars.githubusercontent.com/u/87086734?s=200&v=4"></a> <a target="_blank" href="https://unikraft.cloud/"><img style="height:175px; margin-left: 20px;" src="https://avatars.githubusercontent.com/u/44058005?s=200&v=4"></a>
-      
- 
-## ![](https://avatars.githubusercontent.com/u/87086734?s=200&v=4) ![](https://avatars.githubusercontent.com/u/44058005?s=200&v=4)
 # ```¯\_(ツ)_/¯``` 
