@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on Futurism, Training Courses, Custom OS and Exploitation Development.
 - 🌱 I’m currently learning All the things!
 - 👯 I’m looking to collaborate on any project that is not a waste of our time.
-- 🤔 Let's talk about AI, ML, UI/UX, Futurism, Fuzzing, V, Risc-V, s390x, Unikernels, WASM, CISC & RISC
+- 🤔 Let's talk about AI, ML, UI/UX, Futurism, Fuzzing, V, wetware, Risc-V, s390x, Unikernels, WASM, QASM, CISC & RISC
 - 💬 Ask me about anything!
 - 🌎 How to reach me: [@xn0px90](https://x.com/xn0px90)
 - 🙏 4 your support! [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/xn0px90)
