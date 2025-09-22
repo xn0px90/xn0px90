@@ -1,5 +1,5 @@
 # ```¯\_(ツ)_/¯``` 
-- 🔭 I’m currently working on Futurism, Training Courses, Custom OS, Mix Media Art and Exploitation Development.
+- 🔭 I’m currently working on Futurism, Mix Media Art, Custom Solutions, Training Courses, and Exploitation Development.
 - 🌱 I’m currently learning All the things!
 - 👯 I’m looking to collaborate on any project that is not a waste of our time.
 - 🤔 Let's talk about new Paradigms in Art, AI, ML, UI/UX, Futurism, Fuzzing, V, Wetware, Risc-V, s390x, Unikernels, WASM, BASM(BioASM), QASM, CISC & RISC
