@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on High-End Futurism, Mix Media Art, Custom Solutions, Training Courses, Exploitation Development and interesting opportunities.
 - 🌱 I’m currently learning All the things from atomic structure to PoC!
 - 👯 I’m looking to collaborate on any project that is not a waste of our time and most importantly our resources.
-- 🤔 Let's talk about new Paradigms in Art, AI, ML, UI/UX, Futurism, Fuzzing, V, Genomics, Wetware, BASM(BioASM), Risc-V, s390x, Unikernels, WASM, QASM, CISC & RISC
+- 🤔 Let's talk about new Paradigms in Art, AI, ML, UI/UX, Futurism, Fuzzing, V, Unikernels, Genomics, Wetware, BASM(BioASM), Risc-V, s390x, WASM, QASM, CISC & RISC
 - 💬 Ask me about anything!
 - 🌎 How to reach me: [@xn0px90](https://x.com/xn0px90)
 - 🙏 4 your support! [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/xn0px90)
