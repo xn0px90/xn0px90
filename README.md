@@ -1,4 +1,4 @@
-# ```¯\_(ツ)_/¯``` 
+# # <:|:> ¯\_(ツ)_/¯ �â€™.͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇Ỏ̷͖͈̞̩͎̻̫̫̜͉�<:|:>
 - 🔭 I’m currently working on High-End Futurism, Media Hacking, Mix Media Art, Custom Solutions, Training Courses, Exploitation Development and Interesting Opportunities.
 - 🌱 I’m currently learning All the things from atomic structure to PoC!
 - 👯 I’m looking to collaborate on any project that is not a waste of our time and most importantly our resources.
