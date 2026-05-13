@@ -1,5 +1,5 @@
 # ```<:|:> ¯\_(ツ)_/¯ <:|:>```
-:|: ADVENTURE FURTHER :|: HACK ALL THE THINGS :|: TRUST NOTHING :|:
+## :|: ADVENTURE FURTHER :|: HACK ALL THE THINGS :|: TRUST NOTHING :|:
 - 🔭 I’m currently working on Futurism, Media Hacking, Mix Media Art, Custom Solutions, Training Courses, Malware Research, Exploitation Development, and Interesting Opportunities.
 - 🌱 I’m currently learning all the things from atomic structure to PoC!
 - 👯 I’m looking to collaborate on any project that is not a waste of our time and most importantly our resources.
@@ -12,7 +12,7 @@
 # Amazing Sponsors 
 <a target="_blank" href="https://huly.io/"><img style="height:175px; margin-left: 20px;" src="https://avatars.githubusercontent.com/u/87086734?s=200&v=4"></a> <a target="_blank" href="https://unikraft.org/"><img style="height:175px; margin-left: 20px;" src="https://avatars.githubusercontent.com/u/44058005?s=200&v=4"></a> <a target="_blank" href="https://unikraft.cloud/"><img style="height:175px; margin-left: 20px;" src="https://avatars.githubusercontent.com/u/176347911?s=200&v=4"></a>
 
-:|: ADVENTURE FURTHER :|: HACK ALL THE THINGS :|: TRUST NOTHING :|:
+## :|: ADVENTURE FURTHER :|: HACK ALL THE THINGS :|: TRUST NOTHING :|:
 # ```<:|:> ¯\_(ツ)_/¯ �:)â€™.͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇Ỏ̷͖͈̞̩͎̻̫̫̜͉�<:|:>```
 
 
